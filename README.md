@@ -240,22 +240,3 @@ def predict_batch(model, images):
 ## 🤝 Contributing & Contact
 
 This project demonstrates production-ready machine learning practices.
-
-**Contact:**
-
-* GitHub: \[Your GitHub Profile]
-* LinkedIn: \[Your LinkedIn Profile]
-* Email: [agrim0233@gmail.com](mailto:agrim0233@gmail.com)
-
-**Collaboration Opportunities**
-
-* Model optimization and architecture improvements
-* Deployment pipeline enhancements
-* Documentation and tutorial contributions
-* Performance benchmarking across different datasets
-
-⭐ *If you found this project helpful, please consider giving it a star on Kaggle and sharing your feedback!*
-
----
-
-Built with ❤️ by **Agrim Jain | IIT Indore | Machine Learning Engineer**
