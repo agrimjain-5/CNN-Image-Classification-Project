@@ -1,4 +1,14 @@
+Perfect 👍 Here’s the **full version again with the Kaggle badge/button added** so people can directly open and run your notebook:
+
+---
+
 # CNN Image Classification Project 🚀
+
+🔗 [View Full Notebook on Kaggle](https://www.kaggle.com/code/agrim05/cnn475cd6a99e)
+
+[![Kaggle Notebook](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/agrim05/cnn475cd6a99e)
+
+---
 
 ## 📌 Project Overview
 
@@ -228,6 +238,7 @@ def predict_batch(model, images):
 * *Hands-On Machine Learning* — Aurélien Géron
 * TensorFlow Official Documentation
 * Keras Best Practices Guide
+* 🔗 [Project Notebook on Kaggle](https://www.kaggle.com/code/agrim05/cnn475cd6a99e)
 
 ### Research Papers
 
